@@ -1,0 +1,8 @@
+Below are some images depicting the functionalities of the app and its various features.![Screenshot 2024-03-27 142232](https://github.com/chinmay-shukla/Dream-Dwell/assets/146379915/ccc21388-5ba5-4421-892f-3023caefd265)
+![Screenshot 2024-03-27 145648](https://github.com/chinmay-shukla/Dream-Dwell/assets/146379915/ba27b9bb-eb70-4093-8b21-a1d73ffe8191)
+![Screenshot 2024-03-27 145626](https://github.com/chinmay-shukla/Dream-Dwell/assets/146379915/03bbacbe-b0b3-4928-b913-09feea80388e)
+![Screenshot 2024-03-27 145519](https://github.com/chinmay-shukla/Dream-Dwell/assets/146379915/a9a1901f-f32b-44e2-87fa-926a5e7e4106)
+![Screenshot 2024-03-27 144606](https://github.com/chinmay-shukla/Dream-Dwell/assets/146379915/f1c62d03-680b-4923-af64-6a208a8f15a2)
+![Screenshot 2024-03-27 144211](https://github.com/chinmay-shukla/Dream-Dwell/assets/146379915/a947c09c-5726-440e-aea3-4d0f6e83d36e)
+![Screenshot 2024-03-27 142348](https://github.com/chinmay-shukla/Dream-Dwell/assets/146379915/95d1c470-65a5-4c18-bdd9-150ea06a45f9)
+![Screenshot 2024-03-27 142317](https://github.com/chinmay-shukla/Dream-Dwell/assets/146379915/47d03130-b43a-4b05-a7c1-bf4e6efedfa4)
